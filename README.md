@@ -1,6 +1,10 @@
 # my-test-addon
 
-[Short description of the addon.]
+Generated using 
+
+`npx ember-cli@latest addon my-addon -b @embroider/addon-blueprint --pnpm`
+
+On March 17, 2025
 
 ## Compatibility
 
